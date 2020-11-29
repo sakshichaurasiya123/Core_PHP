@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    font-family: 'Castoro', cursive;
+
+}
+.cointainer{
+   
+    background-color:plum;
+    padding:25px;
+    margin:auto;
+}
+.container,h3,p{
+    text-align: center;
+}
+.submitmsg{
+    color:green;
+
+}
+input,textarea{
+    width:80%;
+    margin:8px;
+    padding: 8px;
+    font-size: 14px;
+    border:2px solid black;
+    border-radius: 5px;
+    display: block;
+}
+button{
+    align-items: center;
+}
